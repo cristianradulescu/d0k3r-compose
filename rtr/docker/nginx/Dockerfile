@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-COPY retur.conf /etc/nginx/conf.d/rtr.conf
+COPY rtr.conf /etc/nginx/conf.d/rtr.conf
